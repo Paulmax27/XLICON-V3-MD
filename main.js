@@ -16,19 +16,19 @@
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
 //  * @project_name : XLICON-V3-MD
-//  * @author : salmanytofficial
-//  * @youtube : https://www.youtube.com/@s4salmanyt
+//  
+//  
 //   * @description : XLICON-V3 ,A Multi-functional whatsapp user bot.
 //*
 //*
 //base by DGXeon
 //re-upload? recode? copy code? give credit ya :)
-//Instagram: unicorn_xeon13
-//Telegram: t.me/ahmmitech
-//GitHub: @salmanytofficial
-//WhatsApp: +923184070915
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
-//   * Created By Github: DGXeon.
+//
+//
+//
+//WhatsApp: +15593740475
+//
+//
 //   * Credit To Xeon
 //   * © 2024 XLICON-V3-MD.
 // ⛥┌┤
@@ -347,7 +347,7 @@ function _0x33fb() {
     "fromMe",
     "Cannot\x20use\x20pairing\x20code\x20with\x20mobile\x20api",
     "participants",
-    "923184070915",
+    "15593740475",
     "3418767taDLjB",
     "fatal",
     "antiswview",
