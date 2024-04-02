@@ -4,7 +4,7 @@
   "description": "Xlicon-MD, A modular advanced wabot",
   "logo": "https://i.ibb.co/FsvbwqF/XLICON.jpg",
   "keywords": ["whatsapp", "bot", "md", "multi-device", "Xlicon", "Xlicon-MD", "wabot", "termux-bot", "sc-bot"],
-  "repository": "https://github.com/Chhebantea/XLICON-V3-MD",
+  "repository": "https://github.com/Paulmax27/XLICON-V3-MD",
   "stack": "container",
   "env": {
     "SUDO": {
