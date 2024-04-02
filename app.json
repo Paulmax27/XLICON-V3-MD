@@ -4,28 +4,28 @@
   "description": "Xlicon-MD, A modular advanced wabot",
   "logo": "https://i.ibb.co/FsvbwqF/XLICON.jpg",
   "keywords": ["whatsapp", "bot", "md", "multi-device", "Xlicon", "Xlicon-MD", "wabot", "termux-bot", "sc-bot"],
-  "repository": "https://github.com/salmanytofficial/XLICON-V3-MD",
+  "repository": "https://github.com/Chhebantea/XLICON-V3-MD",
   "stack": "container",
   "env": {
     "SUDO": {
       "description": "Add Owwner Number Here",
       "required": true,
-      "value": "923184070915"
+      "value": "+15593740475"
     },
     "SUDO_NAME": {
       "description": "Add Your Name Here",
       "required": true,
-      "value": "SᴀʟᴍᴀɴSᴇʀ"
+      "value": "Lalkhirhvela"
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
-      "required": true,
-      "value": ""
+      "required": false,
+      "value": "false"
     },
      "HAPP": {
       "description": "Put the Heroku app name, same as above entered",
-      "required": true,
-      "value": ""
+      "required": false,
+      "value": "false"
     },
     "PREFIX": {
       "description": "Set Your Prefix Here",
@@ -34,8 +34,8 @@
     },
     "BOT_NAME": {
       "description": "Set Your Bot Name Here",
-      "required": false,
-      "value": "Xʟɪᴄᴏɴ_Mᴅ_V3"
+      "required": true,
+      "value": "Lalkhirhvela"
     },
      "PACK_NAME": {
       "description": "Enter Pack Name Here",
@@ -45,17 +45,17 @@
      "AUTHER_NAME": {
       "description": "Enter Auther Name Here",
       "required": false,
-      "value": "ＭＡＤＥ   ＢＹ   ＳＡＬＭＡＮ"
+      "value": "ＭＡＤＥ   ＢＹ   Lalkhirhvela"
      },
      "GL_VIP": {
       "description": "Enter Premium Members Numbers [ Each Saperated By Comma ]",
       "required": false,
-      "value": "923184070915,923264476886"
+      "value": "+15593740475"
      },
     "WELCOME_MSG": {
       "description": "Welcome Message True/False",
       "required": false,
-      "value": "true"
+      "value": "false"
      },
     "MENU_DESIGN": {
       "description": "Choose Any Style v1 => v8",
@@ -75,7 +75,7 @@
     },
     "buildpacks": [
     {
-      "url": "heroku/nodejs"
+      "url": ""
     },
     {
       "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
